@@ -35,9 +35,9 @@ body{
 	width:200px;
 	padding:10px;
 	background-color:white;
-	border-radius:15px
+	border-radius:15px;
+	text-align:center
 	
-}
-.pictorial-news-section ul {
-		list-style:none;
+	
+	
 }
